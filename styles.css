@@ -13,6 +13,14 @@ body {
     margin: auto;
     max-width: 1200px;
   }
+
+  .containers {
+    width: 100%;
+    height: 500%;
+    bottom: 1000px;
+    margin: auto;
+    
+  }
   
   /* Navbar Styles */
   /* Header Styles */
@@ -149,6 +157,8 @@ body {
     justify-content: center;
     flex-direction: column;
   }
+
+  
   
   .card {
     background: white;
@@ -158,6 +168,14 @@ body {
     width:auto;
     text-align:left;
   }
+
+  .gridd {
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+  }
   
   .cardd {
     background: white;
@@ -165,7 +183,8 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     width:auto;
-    bottom: 100%;
+    height: 400px;
+    
     text-align:left;
   }
   

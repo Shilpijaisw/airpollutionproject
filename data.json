@@ -1,0 +1,28 @@
+  
+  {
+    "causes": [
+      "Burning of fossil fuels",
+      "Industrial emissions",
+      "Vehicular pollution",
+      "Deforestation"
+    ],
+    "effects": [
+      "Respiratory problems",
+      "Global warming",
+      "Acid rain",
+      "Damage to wildlife"
+    ],
+    "solutions": [
+      "Switch to renewable energy",
+      "Promote public transport",
+      "Plant more trees",
+      "Enforce stricter environmental laws"
+    ],
+    "global_statistics": {
+      "average_aqi": 92,
+      "countries_monitored": 105,
+      "most_polluted_city": "Delhi",
+      "least_polluted_city": "Helsinki"
+    }
+  }
+  
